@@ -1,0 +1,1 @@
+string q6,f,dhj9;q6="kf";f="h";dhj9="h";f=(q6*1)+(q6+"d")+f*4; if(q6*4==dhj9+"d") q6=q6+"w" else start dhj9=f+"hhb";q6=f*9;end;do f=f+"fup" while(dhj9<dhj9*4);

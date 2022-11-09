@@ -1,0 +1,17 @@
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\bin\Debug\net6.0-windows\demoCompiler.exe
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\bin\Debug\net6.0-windows\demoCompiler.deps.json
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\bin\Debug\net6.0-windows\demoCompiler.runtimeconfig.json
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\bin\Debug\net6.0-windows\demoCompiler.dll
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\bin\Debug\net6.0-windows\demoCompiler.pdb
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.csproj.AssemblyReference.cache
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.Form1.resources
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.csproj.GenerateResource.cache
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.AssemblyInfoInputs.cache
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.AssemblyInfo.cs
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.csproj.CoreCompileInputs.cache
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.dll
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\refint\demoCompiler.dll
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.pdb
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\demoCompiler.genruntimeconfig.cache
+D:\编译原理\上机\词法分析\demoCompiler\demoCompiler\obj\Debug\net6.0-windows\ref\demoCompiler.dll
